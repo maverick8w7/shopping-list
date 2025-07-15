@@ -5,3 +5,7 @@ plums
 computer
 tv
 knives
+
+bags
+rags
+potatoes
